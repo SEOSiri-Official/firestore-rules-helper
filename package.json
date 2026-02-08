@@ -2,7 +2,7 @@
   "name": "firestore-rules-helper",
   "displayName": "FireRule Guard: Firestore Rules Generator & Linter",
   "description": "⚡️ Automatically generate secure Firestore security rules by scanning your codebase. Prevent errors and harden your database security in seconds.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "SEOSiri",
   "engines": {
     "vscode": "^1.85.0"

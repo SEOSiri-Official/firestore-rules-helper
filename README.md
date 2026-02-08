@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/icon.png" alt="FireRule Guard Logo" width="128" height="128" />
+  <img src="https://raw.githubusercontent.com/SEOSiri-Official/firestore-rules-helper/main/images/icon.png" alt="FireRule Guard Logo" width="128" height="128" />
   <h1>FireRule Guard: Firestore Rules Helper</h1>
   <p><strong>⚡️ Supercharge your Firebase development! Automatically generate, lint, and validate secure Firestore rules by scanning your codebase directly within VS Code.</strong></p>
 </div>
